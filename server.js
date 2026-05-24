@@ -6,7 +6,7 @@ app.get('/', (req, res) => {
   res.send([
     {
       name: 'John Doe',
-      age: 30
+      age: 40,
     },
     {
       name: 'Jane Doe',
